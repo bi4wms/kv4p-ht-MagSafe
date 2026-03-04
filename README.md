@@ -11,4 +11,6 @@ Buy me a coffee
 
 
 
-![3Dcase](images/3D_kv4p-ht-MagSafe.png)
+![3Dcase](images/3D_kv4p-ht-MagSafe.png) ![3Dcase](images/kv4p-ht-magsafe-1.jpg) ![3Dcase](images/kv4p-ht-magsafe-2.jpg)
+
+
